@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Content-Type: application/binary
+Report-To: {"group":"coop_38fac9d5b82543fc4729580d18ff2d3d","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/38fac9d5b82543fc4729580d18ff2d3d"}]}
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="coop_38fac9d5b82543fc4729580d18ff2d3d"
+Cross-Origin-Resource-Policy: cross-origin
+Date: Sat, 12 Jul 2025 23:38:34 GMT
+Server: ESF
+Content-Length: 0
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
