@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: l.clarity.ms
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 296
+Origin: https://app.sejaefi.com.br
+Referer: https://app.sejaefi.com.br/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"e":["0.8.19",8,28603,8960,"g0r6pkqi91","103nrd5","19ezmvl",17,1,1,0,"https://app.sejaefi.com.br/pix/fazer-pix/chave"],"a":[[37563,2,4,2,0],[28603,4,1,1109,955,1109,955,0,0,929,804,13991,39436,23445,929,804,23445,625,677,13882,625,677,13977,896,814,23445],[37563,0,2,571,4,0,25,3],[37563,35,3]]}
