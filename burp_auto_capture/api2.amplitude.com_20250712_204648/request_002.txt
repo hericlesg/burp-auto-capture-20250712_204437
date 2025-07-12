@@ -1,0 +1,17 @@
+POST /2/httpapi HTTP/2
+Host: api2.amplitude.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: application/json
+Content-Length: 668
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"api_key":"154ad5ccf8a82732a59152a92644de7","events":[{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1752361217818,"time":1752363503249,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"6affd6ac-4c9b-470e-b222-d89764cda6fb","event_type":"informou chave invalida / pix via chave","event_properties":{"environment":"production","account_modality":"corporation","role":"admin"},"event_id":34,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"}],"options":{},"client_upload_time":"2025-07-12T23:38:24.250Z","request_metadata":{"sdk":{"metrics":{"histogram":{}}}}}
