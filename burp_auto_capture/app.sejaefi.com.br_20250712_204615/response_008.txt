@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Date: Sat, 12 Jul 2025 23:45:37 GMT
+Content-Type: application/json; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br; script-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.googletagmanager.com google-code-prettify.googlecode.com/svn/loader/run_prettify.js *.google.com www.google.com; style-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br 'unsafe-inline' *.googleapis.com *.googlecode.com; img-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br *.google-analytics.com *.googletagmanager.com stats.g.doubleclick.net www.google.com *.google.com.br *.google.com *.adroll.com *.facebook.com *.amazonaws.com; connect-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br *.amazonaws.com https://cartao-gerencianet.gerencianet.com.br; frame-src 'self' blob: 'self' data: gerencianet.com.br *.gerencianet.com.br wss://*.gerencianet.com.br https://connect.facebook.net https://gerencianet-pub-prod-1.s3.amazonaws.com https://chat.blip.ai https://unpkg.com/ https://s3-sa-east-1.amazonaws.com/pe85007 sejaefi.com.br *.sejaefi.com.br wss://*.sejaefi.com.br *.google.com *.gstatic.com *.googletagmanager.com *.loom.com *.youtube.com
+Cache-Control: no-cache, must-revalidate
+X-Gn-Ttl: 30
+Etag: W/"142-gVq1PJFYhIOT81BqMM3A0P9xAIU"
+Set-Cookie: connect.sid=s%3Aapp%3AOGUyODA3NjAtNDJlOS00ZTcyLWE2N2MtMjllOTI4M2M5Y2Yx.%2BAVUL5X10WWs%2FYshmpWgho5wIYUenuRgy6mvqXaSnzw; Domain=sejaefi.com.br; Path=/; Expires=Sun, 13 Jul 2025 00:15:37 GMT; HttpOnly
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 95e46a4e88e46449-GIG
+Alt-Svc: h3=":443"; ma=86400
+
+{"entry":{"key":"***268031**","key_type":"cpf"},"account":{"account_number":"*","account_type":"*","branch":"*","participant":"*","participant_name":"ITAÃ UNIBANCO S.A."},"owner":{"name":"HERICLES GOMES DO NASCIMENTO","tax_id_number":"***268031**","type":"natural_person"},"end_to_end":"E09089356202507122345d4f04f9249a"}
