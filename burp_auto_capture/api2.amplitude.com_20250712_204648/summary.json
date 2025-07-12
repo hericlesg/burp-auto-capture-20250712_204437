@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250712_204648", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/request_001.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/response_001.txt", 
+      "timestamp": 1752363430402
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/request_002.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/response_002.txt", 
+      "timestamp": 1752363504920
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/request_003.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/response_003.txt", 
+      "timestamp": 1752363899811
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/request_004.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250712_204648/response_004.txt", 
+      "timestamp": 1752363953464
+    }
+  ], 
+  "host": "api2.amplitude.com", 
+  "total_requests": 4
+}
