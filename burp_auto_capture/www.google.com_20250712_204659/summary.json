@@ -1,0 +1,127 @@
+{
+  "capture_timestamp": "20250712_204659", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_001.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_001.txt", 
+      "timestamp": 1752363443551
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_002.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_002.txt", 
+      "timestamp": 1752363453346
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_003.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_003.txt", 
+      "timestamp": 1752363494156
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_004.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_004.txt", 
+      "timestamp": 1752363495462
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_005.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/bcn?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_005.txt", 
+      "timestamp": 1752363496954
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_006.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/jserrorlogging?script=https%3A%2F%2Fwww.google.com%2Frecaptcha%2Fapi2%2Fanchor%3Far%3D1%26k%3D6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b%26co%3DaHR0cHM6Ly9hcHAuc2VqYWVmaS5jb20uYnI6NDQz%26hl%3Dpt-BR%26v%3D_cn5mBoBXIA0_T7xBjxkUqUA%26size%3Dinvisible%26cb%3Dvulucuke8gn7&error&line=Not%20available", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_006.txt", 
+      "timestamp": 1752363506947
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_007.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_007.txt", 
+      "timestamp": 1752363517608
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_008.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_008.txt", 
+      "timestamp": 1752363527527
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_009.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_009.txt", 
+      "timestamp": 1752363587384
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_010.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_010.txt", 
+      "timestamp": 1752363597095
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_011.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_011.txt", 
+      "timestamp": 1752363902185
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_012.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_012.txt", 
+      "timestamp": 1752363911984
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_013.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_013.txt", 
+      "timestamp": 1752363948253
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_014.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_014.txt", 
+      "timestamp": 1752363949764
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250712_204659/request_015.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/bcn?k=6LfwcfQUAAAAAHLy9nlrxZScVIc8mjbLtUlr6v1b", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/www.google.com_20250712_204659/response_015.txt", 
+      "timestamp": 1752363951390
+    }
+  ], 
+  "host": "www.google.com", 
+  "total_requests": 15
+}
