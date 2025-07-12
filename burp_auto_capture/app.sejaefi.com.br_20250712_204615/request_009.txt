@@ -1,0 +1,13 @@
+GET /bff/account/balance/available HTTP/2
+Host: app.sejaefi.com.br
+Cookie: machine=d25e8398c33bb50d2de2e0129ce4a802; _gcl_au=1.1.1148492245.1752292318.113871054.1752361205.1752362926; _ga_JDQG84BJK7=GS2.1.s1752361179$o3$g1$t1752363899$j29$l0$h0; _ga=GA1.1.1670215502.1752292318; _clck=103nrd5%7C2%7Cfxj%7C0%7C2019; afUserId=e41397da-a8dc-48ce-8e05-094f38855219-p; AF_SYNC=1752292319602; _hlr=; AWSALB=xOC1243mG+0ctpoqmE/S6lCmpYzoL7hPEPO0pU2c6njDbwTaXmh47fYNiejWryKFKwuA3QfeiW7JmYzTI1OXEE9zdCN2m1rlJVIs2scHZVcXOGdmGue4DUP0z/bt42scsKpyfrx0BCbO1dFGhkJLKsW1aHtzDAxvMexx0hAC0wOM4NcNkwVYZNkcgveNeg==; AWSALBCORS=xOC1243mG+0ctpoqmE/S6lCmpYzoL7hPEPO0pU2c6njDbwTaXmh47fYNiejWryKFKwuA3QfeiW7JmYzTI1OXEE9zdCN2m1rlJVIs2scHZVcXOGdmGue4DUP0z/bt42scsKpyfrx0BCbO1dFGhkJLKsW1aHtzDAxvMexx0hAC0wOM4NcNkwVYZNkcgveNeg==; AMP_154ad5ccf8=JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4YjgzODliMy1mZDM5LTQ1OTItOTYxMS1jYjg5M2E4Y2EwMGYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzUyMzYxMjE3ODE4JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc1MjM2Mzg5ODE1MiUyQyUyMmxhc3RFdmVudElkJTIyJTNBMzglMkMlMjJwYWdlQ291bnRlciUyMiUzQTAlN0Q=; connect.sid=s%3Aapp%3AOGUyODA3NjAtNDJlOS00ZTcyLWE2N2MtMjllOTI4M2M5Y2Yx.%2BAVUL5X10WWs%2FYshmpWgho5wIYUenuRgy6mvqXaSnzw; machine-login=ba526c2a-ef46-4abf-a3a3-3bbdbb6bd4ef; rX2Qr9Ps=ae4d80588758304edc9e3b4baa7be3ce8c0c85726931a51ea49a1195b9d6d1ea; a.code=22a44d96ee7ddbd75bc0495b46075e30
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: application/json
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/pix/fazer-pix/chave
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
