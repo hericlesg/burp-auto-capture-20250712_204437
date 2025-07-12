@@ -1,0 +1,9 @@
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sat, 12 Jul 2025 23:36:57 GMT
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+Vary: Origin
+Request-Context: appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+
